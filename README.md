@@ -21,5 +21,6 @@ Insert gif or link to demo
 
 ## Authors
 
-- [@wezleyP](https://www.github.com/octokatherine)
+- [@wezleyP](https://www.github.com/wezleyP)
+- [@adrianhajdin](https://www.github.com/adrianhajdin)
 
